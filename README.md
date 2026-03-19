@@ -1,6 +1,6 @@
 # projeto-PMV
 
-**ADEL ** — Sistema IoT para Monitoramento de Condições de Tráfego
+**ADEL** — Sistema IoT para Monitoramento de Condições de Tráfego
 
 **Descrição**
 
