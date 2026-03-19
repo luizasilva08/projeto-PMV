@@ -1,4 +1,4 @@
-# projeto-PMV
+# PROJETO PMV - Placa de Mensagens Variavéis
 
 **ADEL** — Sistema IoT para Monitoramento de Condições de Tráfego
 
