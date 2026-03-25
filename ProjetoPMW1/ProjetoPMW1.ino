@@ -1,6 +1,6 @@
 #include <Wire.h>
-#include <LiquidCrystal_I2C.h>
-#include <DHT.h>
+#include <LiquidCrystal_I2C.h>  //precisa baixar biblioteca LiquidCrystal_I2C
+#include <DHT.h> // precisa baixar biblioteca dht sensor library
 
 // --- PINOS ---
 #define LDR_PIN A0
